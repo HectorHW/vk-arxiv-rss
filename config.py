@@ -1,0 +1,3 @@
+USER_TOKEN: str = "YOUR TOKEN HERE"
+GROUP_ID: int = "YOUR GROUP HERE"
+CHECK_INTERVAL_SECS: int = 60 * 5  # every 5 minutes

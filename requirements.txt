@@ -1,0 +1,4 @@
+feedparser
+beautifulsoup4
+pydantic
+vk_api
